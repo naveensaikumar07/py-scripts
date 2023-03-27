@@ -2,4 +2,4 @@
 
 echo "My first Script"
 var=$(date)
-echo $date
+echo $var
