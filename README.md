@@ -1,2 +1,2 @@
-# sh-scripts
-#this repo is all about python scripts 
+# py-scripts
+## this repo is all about python scripts 
