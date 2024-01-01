@@ -1,2 +1,2 @@
 # sh-scripts
-#this repo is used to store shell scripts 
+#this repo is all about python scripts 
